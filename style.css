@@ -1,0 +1,57 @@
+body {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
+    background-image: url(balança.jpg);
+  }
+  
+ 
+  form {
+    display: flex;
+    flex-direction:initial;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 60px;
+    border: 10px solid #277be7;
+    border-radius: 3px;
+    margin-top: 300px;
+    background-color: #a9daee;
+  
+  }
+  
+  label, input {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 10px;
+    background-color: #3c65ee;
+    color: #fff;
+    border: none;
+    border-radius: 60px;
+    cursor: pointer
+    
+  }
+  
+  button:hover {
+    background-color: #7e95e2;
+     border: 10px solid #277be7;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  
+  #result {
+    margin-top: 20px;
+    font-weight: bold;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    display: flex;
+    flex-direction:initial;
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 30px;
+    border: 10px solid #277be7;
+    border-radius: 3px;
+    margin-top: 10px;
+    background-color: #a9daee;
+  
+  }
+  
